@@ -1,2 +1,2 @@
 # Split-the-bill
-not completed yet
+아직 미완성입니다.
